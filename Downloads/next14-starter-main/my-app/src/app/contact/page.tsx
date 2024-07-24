@@ -9,7 +9,7 @@ const ContactPage = () => {
                 <h3>SVECW-Shri Vishnu Engineering College for Women</h3>
                 <br />
                 <p>Jawaharlal Nehru Technological University</p>
-                <p>West Godavari, Andhra Pradesh, India </p>
+                <p>West Godavari, Andhra Pradesh,India </p>
             </div>
             <table>
                 <tbody>
